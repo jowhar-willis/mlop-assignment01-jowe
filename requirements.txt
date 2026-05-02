@@ -1,0 +1,7 @@
+pytest
+flask
+pandas
+numpy
+scikit-learn
+joblib
+tomli
